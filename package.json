@@ -23,7 +23,7 @@
     "@ckeditor/ckeditor5-build-balloon": "^12.4.0",
     "@ckeditor/ckeditor5-build-classic": "^12.4.0",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper": "^1.0.1",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
